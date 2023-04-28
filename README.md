@@ -23,7 +23,7 @@ The course is taught by [Dr. Anthea Alberto](https://rise.unibas.ch/de/team/anth
 10:45-11:15 &nbsp;&nbsp; Exercise\
 11:15-11:30 &nbsp;&nbsp; Discussing the exercise\
 11:30-12:15 &nbsp;&nbsp; Bibliographies\
-12:15-13:00 &nbsp;&nbsp; Packages, self-help competencies 
+12:15-13:00 &nbsp;&nbsp; Specialist packages, self-help competencies 
 
 
 ## Overleaf
