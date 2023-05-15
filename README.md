@@ -7,24 +7,11 @@ The course is taught by [Dr. Anthea Alberto](https://rise.unibas.ch/de/team/anth
 
 **May 16th, 2023**
 
-09:00-09:30 &nbsp;&nbsp; Introductory round\
-09:30-09:45 &nbsp;&nbsp; Pros \& cons of using LaTeX \
-09:45-10:45 &nbsp;&nbsp; Structuring documents, syntax etc.\
-10:45-11:15 &nbsp;&nbsp; Break\
-11:15-11:45 &nbsp;&nbsp; Typography\
-11:45-12:15 &nbsp;&nbsp; Exercise\
-12:15-12:30 &nbsp;&nbsp; Discussing the exercise\
-12:30-13:00 &nbsp;&nbsp; Typesetting
+![schedule_day_1](https://github.com/RISE-UNIBAS/grace_latex/assets/94174603/5f93b158-48ce-4224-bf67-3bde28753774)
 
 **May 23rd, 2023**
 
-09:00-10:15 &nbsp;&nbsp; Images, tables, formulas\
-10:15-10:45 &nbsp;&nbsp; Break\
-10:45-11:15 &nbsp;&nbsp; Exercise\
-11:15-11:30 &nbsp;&nbsp; Discussing the exercise\
-11:30-12:15 &nbsp;&nbsp; Bibliographies\
-12:15-13:00 &nbsp;&nbsp; Specialist packages, self-help competencies 
-
+![schedule_day_2](https://github.com/RISE-UNIBAS/grace_latex/assets/94174603/7a52aebe-6f5b-40e8-9f71-f5aff91aa3fd)
 
 ## Overleaf
 
