@@ -7,7 +7,7 @@ The course is taught by [Dr. Anthea Alberto](https://rise.unibas.ch/de/team/anth
 
 **May 16th, 2023**
 
-![schedule_day_1](https://github.com/RISE-UNIBAS/grace_latex/assets/94174603/5f93b158-48ce-4224-bf67-3bde28753774)
+![schedule_day_1](https://github.com/RISE-UNIBAS/grace_latex/assets/94174603/142f4f6d-f8c5-4dda-a721-d850d1b5a424)
 
 **May 23rd, 2023**
 
